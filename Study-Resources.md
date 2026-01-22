@@ -1,9 +1,9 @@
 # Study Resources
 
 ## Useful Websites
-- [GitHub Docs] (https://docs.github.com/)
-- [Markdown Guide] (https://www.markdownguide.org/)
-- [Git Handbook] (https://guides.github.com/introduction/git-handbook/)
+- [GitHub Docs](https://docs.github.com/)
+- [Markdown Guide](https://www.markdownguide.org/)
+- [Git Handbook](https://guides.github.com/introduction/git-handbook/)
 
 ## Tools I Use
 - Text Editor Software: Microsoft Word
